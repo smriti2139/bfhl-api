@@ -5,7 +5,7 @@ const fibonacci = require("../utils/fibonacci");
 const prime = require("../utils/prime");
 const lcm = require("../utils/lcm");
 const hcf = require("../utils/hcf");
-const aiService = require("../services/aiServices");
+const aiService = require("../services/aiService");
 
 const EMAIL = process.env.OFFICIAL_EMAIL || "smriti1502.be23@chitkarauniversity.edu.in";
 
